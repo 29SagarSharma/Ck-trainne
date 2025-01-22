@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello world! how are you?
 
+=======
+Hello world, Its okay nyc to meet you.
+>>>>>>> f2
